@@ -1,0 +1,5 @@
+Qwen2.5-0.5B-Instruct by the Qwen team.
+Mobile quantization distributed by litert-community under Apache License 2.0.
+The model is included unmodified. See Qwen-LICENSE.txt.
+https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct
+https://huggingface.co/litert-community/Qwen2.5-0.5B-Instruct
